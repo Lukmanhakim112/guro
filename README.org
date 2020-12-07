@@ -1,0 +1,6 @@
+#+TITLE: Rest Framework Guro
+#+DESCRIPTION: Rest Framework for Guro project written in python (Django + Django Rest Framework)
+#+AUTHOR: Lukman Hakim (hlukman156@gmail.com)
+
+
+This Project, is about creating quiz API in django or python. The front-end is gonna be react app (the plan).
